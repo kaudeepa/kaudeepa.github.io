@@ -1,0 +1,15 @@
+.indent {
+    margin-left: 20px;
+}
+
+.TopIndent {
+    margin-top: 20px; 
+}
+
+.DoubleIndent {
+    margin-left: 40px; 
+}
+
+.DoubleTopIndent {
+    margin-top: 40px; 
+}
